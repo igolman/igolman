@@ -1,6 +1,6 @@
 ## Hi 👋
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=igolman&show_icons=true&rank_icon=github"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=igolman&show_icons=true&rank_icon=github&include_all_commits=true"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igolman&layout=compact"/>
 
 <!--
